@@ -7,7 +7,7 @@ Este juego se desarrolla en un skatepark de tamaño mediano, donde los personaje
 mejoras correspondientes, una tienda estará disponible para que cambies tu estilo y compres nuevas partes para tu skateboard, podrás conseguir creditos jugando
 y mejorando tus trucos, consiguiendo logros, etc.
 
-Los creditos de este juego se otorgan al equipo de desarrollo de [TecnoProjects Security](https://web.tecnoprojects.repl.co):
+Los creditos de este juego se otorgan al equipo de desarrollo de [TecnoProjects Security](https://web.tecnoprojects.repl.co): </br></br>
 · Ulises L Camacho  | - TechX (Desarrollador de codigo y logica de programacion, Hacker). </br>
 · Paola Martinez    | - PaoCoder (Desarrolladora de software y topicos avanzados, Developer). </br>
 · Camila            | - Seitan Moon (Editora, experta en imagen y estilo, Diseñadora). </br>
