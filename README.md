@@ -2,8 +2,8 @@
 -----
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CDCDCD&size=25&lines=SkateGang+%7C+Game;Code+%7C+Project)](https://git.io/typing-svg) <br>
 -----
-· Juego de skate oficial de la SkateGang en español, estará disponible en la web y proximamente para dispositivos android con una version superior al Android 8.
-Este juego se desarrolla en un skatepark de tamaño mediano, donde los personajes jugables serán los integrantes de la pandilla SkateGang (SG), cada uno con sus
+· Juego de skate oficial de la SkateGang en español, estará disponible en la web y proximamente para dispositivos android con una version superior al Android 8 y IOS.
+Este juego se desarrolla en el mapa de Acámbaro, donde el punto de reunion será el jardín principal de la ciudad y los personajes jugables serán los integrantes de la pandilla SkateGang (SG), cada uno con sus
 mejoras correspondientes, una tienda estará disponible para que cambies tu estilo y compres nuevas partes para tu skateboard, podrás conseguir creditos jugando
 y mejorando tus trucos, consiguiendo logros, etc.
 
