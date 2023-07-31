@@ -1,4 +1,4 @@
-# <img src="https://github.com/Mr-TechX/SkateGang-Game/blob/Main/img/icon.png?raw=true" width="50px"> · SkateGang Official game
+# <img src="https://github.com/Mr-TechX/SkateGang-Game/blob/v1.0.0/img/icon.png" width="50px"> · SkateGang Official game
 -----
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CDCDCD&size=25&lines=SkateGang+%7C+Game;Code+%7C+Project)](https://git.io/typing-svg) <br>
 -----
