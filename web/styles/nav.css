@@ -1,0 +1,104 @@
+/* ------------------------- FONTS ------------------------ */
+@font-face {
+    font-family: OldLondon;
+    src: url(fonts/OldLondon.ttf);
+    src: url(fonts/OldLondonAlternate.ttf);
+    src: url(fonts/Olondon_.otf);
+    src: url(fonts/Olondona.otf);
+}
+
+@font-face {
+    font-family: Gothtqrg;
+    src: url(fonts/Gothtqrg.ttf);
+}
+
+@font-face {
+    font-family: avexia;
+    src: url(fonts/Avexia\ Personal\ Use\ Only.ttf);
+}
+/* -------------------------------------------------------- */
+
+.nl {
+    font: 22px OldLondon !important;
+    color: #FFF !important;
+    letter-spacing: 2px;
+    padding-top: 50%;
+}
+
+.navbar-inverse {
+    background: #0f0f0f !important;
+    border-bottom: 4px solid #ff0000 !important;
+}
+
+.navbar-brand {
+    font: 25px avexia !important;
+    text-transform: uppercase;
+    color: #FFF !important;
+    letter-spacing: 2px;
+    margin-bottom: 5%;
+}
+
+.nav {
+    margin-bottom: 0px;
+
+    .nl:hover {
+        color: #ff0000;
+    }
+
+    .li-nav {
+        position: relative;
+    }
+}
+
+.navbar-inverse .navbar-toggle {
+    border: none;
+}
+
+.navbar-collapse {
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.navbar-inverse .navbar-toggle:hover {
+    background: transparent !important;
+}
+
+.navbar-inverse .navbar-toggle:focus {
+    background: transparent !important;
+}
+
+.navbar-inverse .navbar-toggle:active {
+    background: transparent !important;
+}
+
+.icon-bar {
+    background: #ffffff !important;
+}
+
+.hover {
+    display: block;
+    position: absolute;
+    width: 0%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background: #ff0000 !important;
+    z-index: 0;
+    opacity: 0;
+}
+
+@media (max-width: 767px) {
+    .nav {
+        padding-bottom: 20px;
+
+        nl {
+            padding: 12px !important;
+        }
+    }
+}
+
+@media (max-width: 480px) {
+    .nav {
+        padding-bottom: 20px;
+    }
+}
