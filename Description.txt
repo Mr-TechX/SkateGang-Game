@@ -1,8 +1,8 @@
 Skate Gang Game
-El juego oficial del grupo de skate Skate Gang (SG) en españo, es un juego de mundo abierto con tematica principal de skate donde el mapa principal es
-la ciudad Acámbaro Guanajuato en Mexico, el punto de reunion principal es el jardín principal (El rojo), los personajes con los que será posible jugar
+El juego oficial del grupo de skate Skate Gang (SG) en español, es un juego de mundo abierto con tematica principal de skate donde el mapa principal es
+la ciudad Acámbaro Guanajuato en México, el punto de reunion principal es el jardín principal (El rojo), los personajes con los que será posible jugar
 serán los integrantes del grupo con sus respectivos apodos (Devin, Shorty, Mac, Doc, Nacho, Quemadito | HBOY, Tech, etc...), sus estilos serán
-personalizables, al igual que las tablas de skate, podrás cambiar tu estilo y el de tu tabla, al igual que coprar piezas de skate y ropa en el check point
+personalizables, al igual que las tablas de skate, podrás cambiar tu estilo y el de tu tabla, al igual que comprar piezas de skate y ropa en el check point
 de "El Guero", quien podrá proporcionarte lo mencionado entre otras cosas, al igual que podrás tatuarte diseños del estudio de "DEVIN".
 
 El juego tratará de hacer misiones del estilo de desbloquear trucos con tu skate que te bonificaran con "SG Coins", con los que podras comprar cosas con
